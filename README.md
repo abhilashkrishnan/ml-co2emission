@@ -1,2 +1,2 @@
 # ml-co2emission
-Predict CO2 emission of cars given a dataset of Engine Size, Cylinders and Fuel Consumption
+Predict CO2 emission of cars using Linear Regression given a dataset of MODELYEAR	MAKE	MODEL	VEHICLECLASS	ENGINESIZE	CYLINDERS	TRANSMISSION	FUELTYPE	FUELCONSUMPTION_CITY	FUELCONSUMPTION_HWY	FUELCONSUMPTION_COMB	FUELCONSUMPTION_COMB_MPG	CO2EMISSIONS
